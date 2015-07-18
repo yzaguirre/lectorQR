@@ -1,0 +1,2 @@
+# lectorQR
+Android QR reader
